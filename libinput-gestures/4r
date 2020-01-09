@@ -1,0 +1,7 @@
+#!/bin/bash
+ACTIVE_PID=`xdotool getactivewindow getwindowpid`
+case `cat /proc/$ACTIVE_PID/comm` in 
+  firefox)
+    xdotool key Control_L+Tab
+  ;;
+esac

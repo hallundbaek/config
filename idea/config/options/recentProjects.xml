@@ -1,0 +1,85 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/deon/corda/quickstart/samples/cordapp-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-191.7479.19" />
+              <option name="buildTimestamp" value="1559021779942" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1570100594191" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/java/mazingcontest-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-173.4674.60" />
+              <option name="buildTimestamp" value="1542112887144" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1554713104830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/speciale/data">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-191.7479.19" />
+              <option name="buildTimestamp" value="1559021779942" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1570092574723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-191.7479.19" />
+              <option name="buildTimestamp" value="1559021768334" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1562328563082" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VFOS5KjxcqoK5UpytqHUjZRh9Q">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.5662.53" />
+              <option name="buildTimestamp" value="1576649771279" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1576845374516" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/deon/agora/backend">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1VFOecYFlc7rQKti7Otg0Wq1DU6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.5662.53" />
+              <option name="buildTimestamp" value="1576649771279" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1576845472964" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/deon/agora" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/deon/agora/backend" />
+        <option value="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin" />
+        <option value="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala" />
+        <option value="$USER_HOME$/speciale/data" />
+        <option value="$USER_HOME$/java/mazingcontest-server" />
+        <option value="$USER_HOME$/deon/corda/quickstart/samples/cordapp-example" />
+      </list>
+    </option>
+  </component>
+</application>

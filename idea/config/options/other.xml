@@ -1,0 +1,68 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.16.0/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.57910675" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6089386" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="org.planx" />
+    <property name="JUnit.Splitter.Proportion" value="0.34136212" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="left&#10;right" />
+    <property name="LATEST_GRADLE_VERSION_KEY" value="0.2.18" />
+    <property name="LATEST_UPDATING_TIME_KEY" value="1518526165187" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="visualvm&#10;vim&#10;cup" />
+    <property name="SearchEveryWhereHistory" value="distributed&#10;p2p&#10;p&#10;memor&#10;simpleX" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.669967" />
+    <property name="android-component-compatibility-check" value="1561369982473" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.173" value="15" />
+    <property name="evlsprt3.191" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/deon/agora/backend&#10;/home/tobias/deon/agora&#10;/home/tobias/deon/corda/quickstart/cordapp-template-kotlin&#10;/home/tobias/deon/corda/quickstart/samples/cordapp-example&#10;/home/tobias/ku/planx/git/projects/xcon/data/src/main/java/org/planx/xcon/routing&#10;/home/tobias/speciale/data&#10;/home/tobias/java/mazingcontest/core/build&#10;/home/tobias/java/mazingcontest&#10;/home/tobias/java/mazingcontest/core/src&#10;/home/tobias/java/mazingcontest/core/src/com/mazegames/mazingcontest&#10;/home/tobias/java/mazingcontest/core/src/com&#10;/home/tobias/speciale/data/src/resources/META-INF/MANIFEST.MF&#10;/home/tobias/speciale/plan-x/plan-x/xmlstores/koala&#10;/home/tobias/dwl/Cup_support.jar&#10;/home/tobias/speciale/data/plan-x-msd&#10;/home/tobias/speciale/data/plan-x-msd-master&#10;/home/tobias/speciale/data/plan-x-koala-java&#10;/usr/lib/jvm/java-1.8.0-openjdk-amd64" />
+    <property name="file.gist.reindex.count" value="2786" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1570092510408" />
+    <property name="ignore.ide.sigint.ignored.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.61-release-IJ2019.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1570100786165" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.61-release-IJ2019.3-1:2019-11-26" />
+    <property name="last.imported.location" value="$USER_HOME$/deon/agora/backend" />
+    <property name="lastTip" value="7" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1576845373854" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/dwl" />
+    <property name="project.wizard.group" value="org.jetbrains.android.newProject.AndroidWizardWrapper" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="INDENT_GUIDE" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>

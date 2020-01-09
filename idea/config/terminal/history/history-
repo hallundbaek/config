@@ -1,0 +1,443 @@
+sudo apt-get install aptitude
+aptitude
+sudo apt-get install i3 i3bar
+sudo apt-get install i3
+sudo apt-get install i3status 
+sudo apt-get install i3lock
+sudo apt-get install i3-lock
+ll
+sudo apt-get install dmenu
+cd .config/i
+cd .config/i3/
+ll
+vim config 
+sudo apt-get install vim
+vim config 
+dmenu
+vim config 
+dmenu_run 
+google-chrome
+cd .config/i3/
+ll
+vim config 
+goog
+google-chrome
+locate
+locate i3staus
+locate i3status
+locate i3
+sudo updatedb
+locate i3
+locate i3status
+sudo vim /etc/i3status.conf 
+alsamixer 
+alsactl 
+alsactl help
+alsactl -h
+pactl 
+pactl --help
+pactl list |grep Sink
+alsa_output.pci-0000_00_1f.3.analog-stereo
+cd .config/i3/
+vim config n
+vim config
+showkey 
+showkey -a
+xev
+xinput list
+sudo apt-get xbacklight
+sudo apt-get install xbacklight
+ls
+sudo apt-get install git
+cd 
+vim .vimrc
+vim .vimrc'
+vim .vimrc
+htop
+sudo apt-get install htop
+htop
+sudo apt-get install gconftools
+sudo apt-get install gconftool
+gconftool
+gconftool-2
+gconftool-2 --get /apps/gnome-terminal/global/profile_list
+feh
+sudo apt-get install feh
+cd Downloads/
+ll
+feh --help
+man feh
+vim /etc/rc.local 
+sudo apt-get install gpick
+sudo apt-get install lxappearance gtk-chtheme qt4-qtconfig
+sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf
+sudo modprobe -r psmouse
+sudo modprobe psmouse
+ll
+tar -xzf
+ll
+tar -xzf VimixDark-Gtk-Theme.tar.xz 
+tar -xvfj VimixDark-Gtk-Theme.tar.xz 
+tar -xvf VimixDark-Gtk-Theme.tar.xz 
+ll
+vim README.md 
+./VimixDark-installer.sh 
+heyooo
+sudo add-apt-repository ppa:noobslab/themes
+sudo apt-get update
+sudo apt-get install vertex-theme
+sudo apt-get install arc-theme
+cd .themes/
+ll
+sudo updatedb
+locate arc-theme
+locate arc
+sudo add-apt-repository ppa:snwh/pulp
+sudo apt-get update
+sudo apt-get install paper-gtk-theme 
+ls
+cd VimixDark-Ruby/
+ls
+tree
+sudo apt-get install tree
+ls
+tree
+ll
+cd gnome-shell/
+ls
+vim gnome-shell.css 
+cd ..
+ll
+cd gtk-3.0/
+ll
+vim gtk-dark.css 
+sudo apt-get install paper-*
+paperconf
+paperconfig
+paperconfig -v
+sudo apt-get install unix-tweak-tool
+sudo apt-get install unity-tweak-tool 
+sudo apt-get gtk-redshift
+sudo apt-get install gtk-redshift
+ls /usr/share/themes/
+vim /usr/share/themes/Paper/gtk-3.0/settings.ini 
+ll
+cd /usr/share/themes/Paper/gtk-3.0/
+ls
+vim settings.ini
+sudo vim settings.ini
+vim ~/.vimrc 
+vim kage.css
+ls
+vim gtk.css 
+vim settings.ini 
+vim gtk.css 
+ls
+fish
+zsh
+pkill nautilus
+nemo
+sudo apt-get install nemo
+cd /etc/fonts/
+ll
+cd /usr/share/fonts/
+ls
+cd X11/
+ls
+ll
+locate owerline
+updatedb
+sudo updatedb
+locate owerline
+cd misc/
+ll
+locate otf
+sudo apt-get install gnome-open
+xdg-open PowerlineSymbols.otf 
+nemo
+zsh
+ls /etc/fonts/conf.d/
+cd /etc/fonts/conf.d/
+ls
+ls -lh
+ll
+su
+sudo su
+zsh
+sudo apt-get install libinput
+sudo apt-get install xserver-xorg-input-libinput
+vim /usr/share/X11/xorg.conf.d/90-libinput.conf 
+sudo vim /usr/share/X11/xorg.conf.d/90-libinput.conf 
+sudo vim /usr/share/X11/xorg.conf.d/50-synaptics.conf 
+sudo vim /usr/share/X11/xorg.conf.d/90-libinput.conf 
+cat /etc/lsb-release 
+uname -r
+sudo apt-get upgrade
+uname -r
+nautilus
+vim .config/i3/config 
+ls
+cd Pictures/
+ll
+mv ~/Downloads/wallup-285964.jpg wp.jpg
+eog wp.jpg 
+feh --bg-center wp.jpg 
+eog wp.png 
+feh --bg-center wp.png 
+agent
+lsb_release
+uname -a
+uname
+uname -all
+uname -All
+uname -A
+uname 
+cat /proc/version
+sudo add-apt-repository ppa:ravefinity-project/ppa
+sudo apt-get update
+vim ../.config/i3/config
+sudo apt-get install gtk-theme-config
+gtk-theme-config 
+htop
+gtk-theme-config 
+sudo apt-get install xserver-xorg-input-libinput
+cd ..
+vim .config/i3/config 
+locate syntax/colornames
+locate syntax/
+cd /usr/share/vim/vim74/autoload/
+ll
+cd ..
+ls
+sudo git clone https://github.com/ap/vim-css-color.git
+ls
+cd vim-css-color/
+ls
+rm LICENSE README.md 
+ll
+sudo rm -r .git .gitattributes LICENSE README.md 
+ls
+mv * .
+ls
+mv * ..
+ls
+sudo mv * ..
+sudo mv -r * ..
+sudo mv * ..
+ls
+cd..
+sudo mv autoload/* ../autoload/
+sudo mv syntax/* ../syntax/
+ls
+cd autoload/
+ls
+ll
+cd ..
+cd autoload/
+ll
+cd ..
+ls
+cd syntax/
+ll
+cd ..
+ls
+cd after/
+ls
+cd syntax/
+ls
+sudo cp * ../../syntax/
+cd ..
+cd syntax/
+ls
+cd css.vim
+vim css.vim
+sudo apt-get remove vim
+ls
+rm -r *.vim
+sudo rm -r *.vim
+sudo apt-get install vim
+ll
+sudo apt-get install vim-syntax-gtk
+ls
+cat README.txt 
+ls ~/tmp/
+sudo mv ~/tmp/* .
+ls
+cd
+cd Downloads/
+ll
+sudo apt-get install fish
+fish
+fish_config
+fish
+sudo apt-get install zsh
+zsh
+sudo reboot
+zsh
+zsh
+ls /usr/share/fonts/
+nemo /usr/share/fonts/
+zsh
+ls
+zsh
+ls
+zsh
+urxvt
+sudo apt-get sintall rxvt-unicode
+sudo apt-get install rxvt-unicode
+vim .zshrc 
+fish
+ls
+vim .zshrc 
+fg 1
+vim .zshrc 
+for ((x=0; x<=255; x++));do echo -e "${x}:\033[38;5;${x}mcolor\033[000m";done1~; 
+for ((x=0; x<=255; x++));do echo -e "${x}:\033[38;5;${x}mcolor\033[000m";done
+:q
+ls
+cd .zsh/
+ls
+vim dircolors.256dark 
+cd..
+cd ..
+ls
+zsh
+sudo mount -t nfs -o proto=tcp;port=2049 "192.168.0.20://boxdrop" /home/tobias/boxdrop
+convert -rotate "90" -resize 460x816 ../fract5/*.gif .
+convert -rotate "90" -resize 460x816 ../fract5/*.gif *.gif
+mogrify --rotate "90" -resize 460x816 ../fract5 *.gif
+mogrify -rotate "90" -resize 460x816 ../fract5 *.gif
+mogrify -rotate "90" -resize 460x816 ../fract5 .
+mogrify -rotate "90" -resize 460x816 ../fract5/*.gif ./
+ls
+ll
+git rm contract/*
+git status
+ll
+cd ..
+ls
+git status
+git rm expression 
+git rm -r expression 
+git status
+ll
+git rm -r parsing
+git rm -r event 
+git status
+wget -nc https://www.youtube.com/redirect?redir_token=gCQIxSOzduj_ezHYA4qAx_GXPA58MTUyMzk2OTA4M0AxNTIzODgyNjgz&event=video_description&v=uPPyBkq_fNg&q=https%3A%2F%2Frepos.wine-staging.com%2Fwine%2FRelease.key
+wget -nc https://www.youtube.com/redirect?redir_token=gCQIxSOzduj_ezHYA4qAx_GXPA58MTUyMzk2OTA4M0AxNTIzODgyNjgz&event=video_description&v=uPPyBkq_fNg&q=https%3A%2F%2Frepos.wine-staging.com%2Fwine%2FRelease.key > tmp/k
+l
+cd tmp/
+l
+mv ~/dwl/Release.key .
+apt-key add Release.key 
+apt-add-repository "https://dl.winehq.org/wine-builds/ubuntu/'
+apt-add-repository "https://dl.winehq.org/wine-builds/ubuntu/"
+apt-get update
+apt-get install --install-recommends winehq-staging
+l
+sudo apt-get install gnome-terminal
+l
+cd core/
+l
+cd src/
+l
+cd com/mazegames/
+l
+cd mazingcontest/
+l
+cd game/
+l
+cd actors/
+l
+git
+git status
+l
+cd ..
+l
+git checkout Board.java
+l
+cd actors/
+l
+git checkout Block.java
+cd ..
+git checkout Board.java
+./gradlew dependencies
+ping www.google.com
+sudo apt-get install linux-firmware
+lsb_release -a
+sudo apt-get update
+sudo apt-get install linux-firmware 
+wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plaint/ath10k/QCA614/hw3.0/board-2.bin
+cd tmp/
+l
+mkdir firmware shit
+cd firmware/
+l
+wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plain/ath10k/QCA614/hw3.0/board-2.bin
+wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plain/ath10k/QCA6174/hw3.0/board-2.bin
+wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plain/ath10k/QCA6174/hw3.0/board.bin
+wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plain/ath10k/QCA6174/hw3.0/firmware-4.bin
+ls /lib/firmware/ath10k/QCA6174/
+l
+ls /lib/firmware/ath10k/QCA6174/hw3.0/
+cd /lib/firmware/ath10k/QCA6174/hw3.0/
+l
+sha256sum board.bin
+sha256sum ~/tmp/firmware/board.bin 
+mv board.bin board.bin.bku
+sudo mv board.bin board.bin.bku
+ll
+sudo mv board-2.bin board-2.bin.bku
+sudo mv firmware-4.bin firmware-4.bin.bku
+l
+sudo mv ~/tmp/firmware/* .
+l
+sudo reboot
+cd /lib/firmware/ath10k/QCA6174/hw3.0/
+l
+ll
+sudo wget http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/plain/ath10k/QCA6174/hw3.0/firmware-5.bin
+sudo cp firmware-4.bin firmware-5.bin
+l
+sudo reboot
+cd /lib/firmware/ath10k/QCA6174/hw3.0/
+l
+rm firmware-5.bin 
+sudo rm firmware-5.bin 
+l
+ls
+ll
+sudo mv board.bin.bku board.bin
+sudo mv firmware-4.bin.bku firmware-4.bin
+l
+sudo mv board-2.bin.bku board-2.bin
+ll
+uname -r
+cd
+sudo add-apt-repository ppa:teejee2008/ppa
+sudo apt-get upgrade
+python
+sudo add-apt-repository ppa:teejee2008/ppa
+cd tmp/
+mkdir kernel
+cd kernel/
+l
+wget -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v4.20/linux-headers-4.20.0-042000_4.20.0-042000.201812232030_all.deb
+wget -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v4.20/linux-headers-4.20.0-042000-generic_4.20.0-042000.201812232030_amd64.deb
+wget -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v4.20/linux-image-unsigned-4.20.0-042000-generic_4.20.0-042000.201812232030_amd64.deb
+wget -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v4.20/linux-modules-4.20.0-042000-generic_4.20.0-042000.201812232030_amd64.deb
+l
+sudo dpkg -i *.deb
+sudo reboot
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get upgrade -f
+ls /lib/firmware/ath10k/QCA6174/hw3.0/
+sudo apt-get dist-upgrade
+sudo reboot
+whoami
+su
+sudo
+locate
+locate sudo

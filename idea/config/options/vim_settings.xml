@@ -1,0 +1,916 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/auxiliary/NodeParseException.java" timestamp="1542373173600">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/auxiliary/XConElementNode.java" timestamp="1554290240929">
+        <mark key="[" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/DistributedMap.java" timestamp="1562858257199">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1553775624334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/SignedEntry.java" timestamp="1562924340298">
+        <mark key="[" line="115" column="43" />
+        <mark key="]" line="115" column="43" />
+        <mark key="." line="115" column="43" />
+        <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/BreachException.java" timestamp="1542372327143">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/contract/ConcurrentContract.java" timestamp="1551767755154">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Define.java" timestamp="1561970521984">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/StoreMessage.java" timestamp="1562853169966">
+        <mark key="[" line="47" column="55" />
+        <mark key="]" line="47" column="55" />
+        <mark key="." line="47" column="55" />
+        <mark key="^" line="47" column="51" />
+      </file>
+      <file name="$USER_HOME$/java/mazingcontest-server/src/games/Match.java" timestamp="1554639541882">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/TimestampedValue.java" timestamp="1562851605710">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/xmlstore/koala/nameserver/GlobalNameServer.java" timestamp="1552622398040">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/client/XConClient.java" timestamp="1566822039696">
+        <mark key="[" line="99" column="13" />
+        <mark key="]" line="99" column="13" />
+        <mark key="^" line="98" column="36" />
+        <mark key="." line="99" column="13" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/auxiliary/AttributeMap.java" timestamp="1554290518412">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Define.java" timestamp="1551755065778">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/AliasIndex.java" timestamp="1554462029057">
+        <mark key="[" line="69" column="56" />
+        <mark key="]" line="70" column="9" />
+        <mark key="." line="70" column="9" />
+        <mark key="^" line="70" column="9" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Login.java" timestamp="1561970540168">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/catalogue/SubscriptionReference.java" timestamp="1551930440125">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/contract/ContractTest.java" timestamp="1554462326209">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/pki/PKIEventSignature.java" timestamp="1553511605566">
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="82" />
+        <mark key="^" line="66" column="82" />
+        <mark key="." line="66" column="82" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/pki/PKIAuthority.java" timestamp="1552542382996">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="63" column="4" />
+        <mark key="." line="79" column="5" />
+        <mark key="^" line="79" column="5" />
+      </file>
+      <file name="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/states/CarState.kt" timestamp="1570102850964">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="25" column="98" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XCon.java" timestamp="1561381039237">
+        <mark key="[" line="52" column="40" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Instantiate.java" timestamp="1554380559472">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/Strategy.java" timestamp="1554386366604">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/UnauthorizedException.java" timestamp="1554387048854">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/MultiPartyBenchmark.java" timestamp="1554386416845">
+        <mark key="[" line="126" column="77" />
+        <mark key="]" line="149" column="43" />
+        <mark key="." line="149" column="43" />
+        <mark key="^" line="149" column="43" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" timestamp="1570102436198">
+        <mark key="'" line="51" column="21" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/StoreRequestReceiver.java" timestamp="1562856775239">
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/definition/Definition.java" timestamp="1554385307877">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/Identifier.java" timestamp="1562926141054">
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/SecurityDetails.java" timestamp="1552542106082">
+        <mark key="[" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/java/mazingcontest-server/src/handlers/MatchHandler.java" timestamp="1554639253724">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="51" column="8" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" timestamp="1566821956458">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="61" column="13" />
+        <mark key="^" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/NewAgent.java" timestamp="1553682237247">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/contracts/CarContract.kt" timestamp="1570102500917">
+        <mark key="[" line="25" column="72" />
+        <mark key="]" line="25" column="72" />
+        <mark key="." line="25" column="72" />
+        <mark key="^" line="24" column="68" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/DistributedMapFactory.java" timestamp="1542724405296">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/SignedMap.java" timestamp="1554385836378">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/SignedNode.java" timestamp="1554124467778">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/Residual.java" timestamp="1554385450880">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="85" column="24" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Subscribe.java" timestamp="1561972824389">
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="20" column="81" />
+        <mark key="." line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/SignedBinding.java" timestamp="1562848646338">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/StoreOperation.java" timestamp="1562852793391">
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="49" />
+        <mark key="." line="55" column="49" />
+        <mark key="^" line="55" column="49" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClientException.java" timestamp="1542372372599">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/XResXMLStore.java" timestamp="1562318528829">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Login.java" timestamp="1553151817230">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/agent/AsymmetricAgent.java" timestamp="1553788230808">
+        <mark key="[" line="40" column="145" />
+        <mark key="]" line="40" column="145" />
+        <mark key="." line="40" column="145" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/XCon.java" timestamp="1566820925157">
+        <mark key="'" line="117" column="50" />
+        <mark key="[" line="62" column="135" />
+        <mark key="]" line="62" column="135" />
+        <mark key="." line="62" column="135" />
+        <mark key="^" line="62" column="149" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/NewAlias.java" timestamp="1553764834372">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/monitoring/Residual.java" timestamp="1566821657171">
+        <mark key="[" line="43" column="77" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="43" column="87" />
+        <mark key="^" line="43" column="87" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/Context.java" timestamp="1542641337419">
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="119" column="32" />
+        <mark key="." line="119" column="32" />
+        <mark key="^" line="119" column="32" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/XConXMLStore.java" timestamp="1566822061641">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/contract/AlternationContract.java" timestamp="1543851978251">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/client/catalogue/EventChain.java" timestamp="1566822197389">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="72" column="48" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/consensus/Quorum.java" timestamp="1567421659887">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/util/Tuple.java" timestamp="1553143324599">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/TemplateException.java" timestamp="1542371918404">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/subscription/EventChain.java" timestamp="1551663898121">
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/contract/TransmitContract.java" timestamp="1554462202692">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="113" column="30" />
+        <mark key="^" line="113" column="30" />
+        <mark key="." line="113" column="30" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/DefinitionException.java" timestamp="1542371844318">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/MultiPartyContract.java" timestamp="1543587778683">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Lookup.java" timestamp="1557407789210">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/Main.java" timestamp="1561988561606">
+        <mark key="[" line="32" column="61" />
+        <mark key="]" line="32" column="62" />
+        <mark key="^" line="29" column="52" />
+        <mark key="." line="32" column="62" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Register.java" timestamp="1551755107339">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="24" column="85" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/HashCalculator.java" timestamp="1562856637136">
+        <mark key="[" line="115" column="32" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="114" column="26" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" timestamp="1553765048184">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+        <mark key="^" line="114" column="42" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSigner.java" timestamp="1554379820572">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="49" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/expression/atoms/Atom.java" timestamp="1543840431456">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/NewAlias.java" timestamp="1561970611972">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" timestamp="1554290189329">
+        <mark key="[" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Subscribe.java" timestamp="1551933691365">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/xcon.cup" timestamp="1542639489835">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/NodeParser.java" timestamp="1554462457774">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+        <mark key="^" line="61" column="22" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/auxiliary/XConNode.java" timestamp="1554290353246">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/Kademlia.java" timestamp="1566820746350">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/subscription/Subscription.java" timestamp="1551663417178">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="53" column="55" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin/workflows/src/main/kotlin/com/template/flows/CarFlow.kt" timestamp="1570107658943">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/kademlia/operation/StoreOperation.java" timestamp="1562079586627">
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="46" column="40" />
+        <mark key="^" line="46" column="40" />
+        <mark key="." line="46" column="40" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/Main.java" timestamp="1561382564029">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/DistributedMap.java" timestamp="1542715859256">
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="77" column="36" />
+        <mark key="^" line="77" column="36" />
+        <mark key="." line="77" column="36" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/client/catalogue/Catalogue.java" timestamp="1561971874694">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/java/mazingcontest-server/src/handlers/UserHandler.java" timestamp="1542659644946">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/kademlia/HashCalculator.java" timestamp="1561375173717">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Command.java" timestamp="1553151645362">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="89" column="21" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="89" column="21" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/NodeBinding.java" timestamp="1562765966687">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/expression/atoms/AgentAtom.java" timestamp="1554465247903">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/mazingcontest-server/src/handlers/GameHandler.java" timestamp="1543428672018">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/agent/PKIAgent.java" timestamp="1553774616432">
+        <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Apply.java" timestamp="1561970492117">
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/java/mazingcontest-server/src/seed/SeedMaster.java" timestamp="1543434595829">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/Node.java" timestamp="1567418185310">
+        <mark key="[" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/DataLookupReceiver.java" timestamp="1562853078773">
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/client/catalogue/Subscription.java" timestamp="1566821800566">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="50" column="22" />
+        <mark key="^" line="50" column="22" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/expression/Variable.java" timestamp="1544439155283">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/StoreReceiver.java" timestamp="1562855507104">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/DataMessage.java" timestamp="1562852990968">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="46" column="58" />
+        <mark key="." line="46" column="58" />
+        <mark key="^" line="46" column="58" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/cli/Apply.java" timestamp="1554379882644">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="36" column="118" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/xmlstore/stores/DistributedXMLStore.java" timestamp="1562328708949">
+        <mark key="[" line="194" column="23" />
+        <mark key="]" line="137" column="63" />
+        <mark key="." line="87" column="85" />
+        <mark key="^" line="87" column="85" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/catalogue/Subscription.java" timestamp="1554386402143">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/MessageFactoryImpl.java" timestamp="1562850716823">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/catalogue/EventChain.java" timestamp="1554386313360">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/NewAgent.java" timestamp="1561970598585">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/contracts/MultipartyContractTemplate.java" timestamp="1543588240487">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/SignedBinding.java" timestamp="1562768515198">
+        <mark key="[" line="46" column="99" />
+        <mark key="]" line="51" column="10" />
+        <mark key="." line="51" column="10" />
+        <mark key="^" line="51" column="10" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/routing/kademlia/operation/RestoreOperation.java" timestamp="1562850823083">
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1566823920700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xmlstore/stores/Binding.java" timestamp="1562765812552">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/PKIEventSignature.java" timestamp="1553774869594">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/SymbolNotFoundException.java" timestamp="1542371996391">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Lookup.java" timestamp="1561970570991">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/test/org/planx/io/FileSystemTest.java" timestamp="1561377470432">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/test/P2PBenchmark.java" timestamp="1561628927926">
+        <mark key="[" line="35" column="91" />
+        <mark key="]" line="35" column="91" />
+        <mark key="^" line="73" column="16" />
+        <mark key="." line="35" column="91" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/cli/Update.java" timestamp="1561980814253">
+        <mark key="[" line="30" column="70" />
+        <mark key="]" line="32" column="73" />
+        <mark key="." line="32" column="73" />
+        <mark key="^" line="32" column="73" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/client/Strategy.java" timestamp="1561970269917">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin/build.gradle" timestamp="1570108105119">
+        <mark key="[" line="134" column="36" />
+        <mark key="]" line="134" column="41" />
+        <mark key="^" line="130" column="28" />
+        <mark key="." line="134" column="41" />
+      </file>
+      <file name="/fragment.java" timestamp="1570101039196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/SimpleMemoryXMLStore.java" timestamp="1557408348458">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="38" />
+        <mark key="^" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+      </file>
+      <file name="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/test/org/planx/routing/kademlia/KademliaTest.java" timestamp="1561376546521">
+        <mark key="[" line="210" column="17" />
+        <mark key="]" line="209" column="30" />
+        <mark key="^" line="209" column="30" />
+        <mark key="." line="209" column="30" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="198" column="11" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" />
+      <jump line="201" column="24" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" />
+      <jump line="113" column="14" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" />
+      <jump line="115" column="23" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" />
+      <jump line="140" column="41" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="144" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="67" column="37" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="63" column="62" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="107" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/test/P2PBenchmark.java" />
+      <jump line="84" column="121" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConNode.java" />
+      <jump line="28" column="20" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/InstantiationEvent.java" />
+      <jump line="29" column="43" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/InstantiationEvent.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/InstantiationEvent.java" />
+      <jump line="71" column="29" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/Template.java" />
+      <jump line="96" column="29" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" />
+      <jump line="30" column="31" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" />
+      <jump line="25" column="19" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" />
+      <jump line="26" column="29" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransmitEvent.java" />
+      <jump line="223" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/XConParser.java" />
+      <jump line="33" column="96" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/XConParser.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/Template.java" />
+      <jump line="100" column="3" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/Template.java" />
+      <jump line="142" column="3" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/ast/Template.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/SymbolTable.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/SymbolTable.java" />
+      <jump line="42" column="1487" filename="/Dummy.txt" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="83" column="42" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="90" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="115" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="27" column="62" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="32" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="125" column="53" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="41" column="33" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="86" column="11" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/pki/PKIAgent.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/pki/PKIAgent.java" />
+      <jump line="111" column="28" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="49" column="36" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="86" column="9" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/test/P2PBenchmark.java" />
+      <jump line="163" column="44" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="185" column="32" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="66" column="78" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="59" column="3" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/test/org/planx/xcon/client/StrategyTest.java" />
+      <jump line="156" column="4" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/XConClient.java" />
+      <jump line="65" column="36" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/MultiPartyBenchmark.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/MultiPartyBenchmark.java" />
+      <jump line="43" column="88" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/SinglePartyBenchmark.java" />
+      <jump line="103" column="8" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="120" column="6" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="137" column="1" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="108" column="90" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="111" column="7" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="117" column="11" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="136" column="29" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="137" column="37" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/XConClient.java" />
+      <jump line="31" column="2" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/Residual.java" />
+      <jump line="163" column="34" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/Residual.java" />
+      <jump line="181" column="73" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/XConClient.java" />
+      <jump line="5" column="2" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/catalogue/Catalogue.java" />
+      <jump line="53" column="42" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/XConClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/client/XConClient.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/util/ComputedReference.java" />
+      <jump line="23" column="35" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/benchmark/p2p/SinglePartyBenchmark.java" />
+      <jump line="22" column="21" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/Event.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/util/Triple.java" />
+      <jump line="42" column="68" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/pki/PKIAgent.java" />
+      <jump line="72" column="105" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="82" column="109" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="5" column="39" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="64" column="100" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="67" column="40" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="68" column="70" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="71" column="110" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="78" column="78" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="81" column="114" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="83" column="24" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="63" column="40" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/security/NodeSignature.java" />
+      <jump line="229" column="12" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/XEventParser.java" />
+      <jump line="453" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/parsing/XEventParser.java" />
+      <jump line="87" column="2" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xcon/monitoring/event/TransferEvent.java" />
+      <jump line="149" column="2" filename="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/kademlia/Kademlia.java" />
+      <jump line="376" column="0" filename="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/kademlia/Kademlia.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/speciale/plan-x/plan-x/xmlstores/koala/src/java/org/planx/routing/kademlia/Kademlia.java" />
+      <jump line="178" column="18" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/org/planx/xmlstore/stores/network/DistributedXConXMLStore.java" />
+      <jump line="105" column="50" filename="$USER_HOME$/speciale/plan-x/plan-x/projects/xcon/data/src/main/java/org/planx/xcon/XCon.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="24" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="29" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="34" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="50" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="51" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.1/e099e994e93a51259f1dbf1ec970db8bfba08862/corda-core-4.1-sources.jar!/net/corda/core/transactions/LedgerTransaction.kt" />
+      <jump line="20" column="23" filename="$USER_HOME$/deon/corda/quickstart/cordapp-template-kotlin/workflows/src/main/kotlin/com/template/flows/CarFlow.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Manufacturer</text>
+      </register>
+      <register name="-" type="4">
+        <text>Manufacturer</text>
+      </register>
+      <register name="/" type="4">
+        <text>output</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBub2RlIHsKICAgICAgICBuYW1lICJPPU1hbnVmYWN0dXJlcixMPU5ldyBZb3JrLEM9VVMiCiAgICAgICAgcDJwUG9ydCAxMDAwOAogICAgICAgIHJwY1NldHRpbmdzIHsKICAgICAgICAgICAgYWRkcmVzcygibG9jYWxob3N0OjEwMDA5IikKICAgICAgICAgICAgYWRtaW5BZGRyZXNzKCJsb2NhbGhvc3Q6MTAwNDkiKQogICAgICAgIH0KICAgICAgICBycGNVc2VycyA9IFtbIHVzZXI6ICJ1c2VyMSIsICJwYXNzd29yZCI6ICJ0ZXN0IiwgInBlcm1pc3Npb25zIjogWyJBTEwiXV1dCiAgICB9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uU2lnbmVkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>package com.template.flows
+
+import co.paralleluniverse.fibers.Suspendable
+import net.corda.core.flows.*
+import net.corda.core.utilities.ProgressTracker</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBWZXJpZmljYXRpb24gbG9naWMgZ29lcyBoZXJlLgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cGFja2FnZSBjb20udGVtcGxhdGUuY29udHJhY3RzCgppbXBvcnQgbmV0LmNvcmRhLmNvcmUuY29udHJhY3RzLkNvbW1hbmREYXRhCmltcG9ydCBuZXQuY29yZGEuY29yZS5jb250cmFjdHMuQ29udHJhY3QKaW1wb3J0IG5ldC5jb3JkYS5jb3JlLnRyYW5zYWN0aW9ucy5MZWRnZXJUcmFuc2FjdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZW1wbGF0ZS5jb250cmFjdHMuVGVtcGxhdGVDb250cmFjdAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>package com.template.states
+
+import com.template.contracts.TemplateContract
+import net.corda.core.contracts.BelongsToContract
+import net.corda.core.contracts.ContractState
+import net.corda.core.identity.AbstractParty</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5vZGVzLnNpemUoKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz48</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>output</last-search>
+      <last-offset />
+      <last-pattern>output</last-pattern>
+      <last-replace>node</last-replace>
+      <last-substitute>event</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>instantiate</entry>
+        <entry>XEvent</entry>
+        <entry>dest</entry>
+        <entry>InstantiationException</entry>
+        <entry>Error in line</entry>
+        <entry>Error</entry>
+        <entry>error_sym</entry>
+        <entry>Override</entry>
+        <entry>toStr</entry>
+        <entry>eventChains</entry>
+        <entry encoding="base64">XDxleHRTdG9yZVw+</entry>
+        <entry>subscribe</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>uple</entry>
+        <entry>Event</entry>
+        <entry>event</entry>
+        <entry>outputStates</entry>
+        <entry>input</entry>
+        <entry>output</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>x</entry>
+        <entry>tabnext</entry>
+        <entry encoding="base64">PDw=</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48PA==</entry>
+        <entry encoding="base64">JzwsJz4+Pj4=</entry>
+        <entry>&quot;w</entry>
+        <entry>q</entry>
+        <entry>12</entry>
+        <entry>%s/uple/riple/g</entry>
+        <entry>%s/Event/Node/g</entry>
+        <entry>%/event/node/g</entry>
+        <entry>%s/event/node/g</entry>
+        <entry encoding="base64">JzwsJz4+Pg==</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+        <entry>/outputStates</entry>
+        <entry encoding="base64">JzwsJz48</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

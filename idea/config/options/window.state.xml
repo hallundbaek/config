@@ -1,0 +1,35 @@
+<application>
+  <component name="WindowManager">
+    <frame x="3840" y="1083" width="1920" height="1077" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="960" y="2" width="960" height="1078" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576845394790" />
+    <state x="960" y="2" width="960" height="1078" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.1080" timestamp="1576845394791" />
+    <state x="960" y="2" width="960" height="1078" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog@1920.1080" timestamp="1576845394791" />
+    <state x="-4" y="-33" width="3840" height="2157" key="FileChooserDialogImpl" timestamp="1576845469702">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="-4" y="-33" width="3840" height="2157" key="FileChooserDialogImpl/3840.1080.1920.1080/0.0.3840.2160" timestamp="1576845469702" />
+    <state x="-4" y="-33" width="3840" height="2157" key="NewModule_or_Project.wizard" timestamp="1576845472006">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="-4" y="-33" width="3840" height="2157" key="NewModule_or_Project.wizard/3840.1080.1920.1080/0.0.3840.2160" timestamp="1576845472006" />
+    <state x="960" y="3" width="960" height="1077" key="dock-window-1" timestamp="1576845394791" />
+    <state x="960" y="3" width="960" height="1077" key="dock-window-1/1920.1080/1920.1080" timestamp="1576845394791" />
+    <state x="960" y="3" width="960" height="1077" key="dock-window-1@1920.1080" timestamp="1576845394791" />
+  </component>
+</application>

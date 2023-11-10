@@ -119,20 +119,20 @@ bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
 
-bindsym $mod+u workspace prev
-bindsym $mod+i workspace next
+bindsym $mod+i workspace prev
+bindsym $mod+o workspace next
 
-bindsym $mod+Shift+u move container to workspace prev
-bindsym $mod+Shift+i move container to workspace next
+bindsym $mod+Shift+i move container to workspace prev
+bindsym $mod+Shift+o move container to workspace next
 
 bindsym $mod+space workspace back_and_forth
 bindsym $mod+Shift+space move container to workspace back_and_forth
 
 bindsym $mod+y exec $HOME/.config/i3/scripts/empty_workspace go prev
-bindsym $mod+o exec $HOME/.config/i3/scripts/empty_workspace go next
+bindsym $mod+u exec $HOME/.config/i3/scripts/empty_workspace go next
 
 bindsym $mod+Shift+y exec $HOME/.config/i3/scripts/empty_workspace move prev
-bindsym $mod+Shift+o exec $HOME/.config/i3/scripts/empty_workspace move next
+bindsym $mod+Shift+u exec $HOME/.config/i3/scripts/empty_workspace move next
 # move focused container to workspace
 bindsym $mod+Shift+0 move container to workspace 0
 bindsym $mod+Shift+1 move container to workspace 1

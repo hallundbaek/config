@@ -1,0 +1,22 @@
+#!/bin/sh
+
+current=`i3-msg -t get_workspaces | jq '.[] | select(.focused==true).num'`
+all=`i3-msg -t get_workspaces | jq '.[].num'`
+total=`echo $all | wc -w`
+
+if [ "$total" = 10 ]; then
+  exit 1
+fi
+
+while true
+do
+  current=$((current+1))
+  if [ "$current" = 10 ]; then
+    current=0
+  fi
+
+  if ! echo "$all" | grep "$current" -qs; then
+    echo "$current"
+    exit 0
+  fi
+done

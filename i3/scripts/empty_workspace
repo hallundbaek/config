@@ -1,0 +1,14 @@
+#!/bin/sh
+path=$(dirname "$0")
+
+if [ "$2" = prev ]; then
+  empty=`$path/prev_empty_workspace`
+elif [ "$2" = next ]; then
+  empty=`$path/next_empty_workspace`
+fi
+
+if [ "$1" = move ]; then
+  i3-msg move container to workspace "$empty"
+elif [ "$1" = go ]; then
+  i3-msg workspace "$empty"
+fi

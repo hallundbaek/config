@@ -120,7 +120,8 @@
     font:inherit;
 }
 #element selected.normal {
-    background-color: @blue;
+    background-color: @foreground;
+    color: @dark;
 }
 #element normal active {
     foreground: @lightblue;
@@ -129,6 +130,7 @@
     foreground: @lightred;
 }
 #element alternate normal {
+    background-color: transparent;
 }
 #element alternate active {
     foreground: @lightblue;
@@ -145,7 +147,13 @@
     foreground: @dark;
 }
 #element normal normal {
-
+    background-color: transparent;
+}
+#element-text {
+    highlight: bold #ffffff;
+}
+#element-text selected {
+    highlight: bold #000000;
 }
 
 #vertb {

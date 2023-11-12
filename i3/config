@@ -59,6 +59,7 @@ bindsym $mod+w exec LANG=en__US.UTF-8 `rofi -show window`
 
 # Screen lock
 bindsym $mod+Escape exec lock
+bindsym $mod+Shift+Escape exec `systemctl suspend` 
 
 # mouse focus
 focus_follows_mouse no
